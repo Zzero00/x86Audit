@@ -8,7 +8,7 @@ IDA x86_64静态扫描脚本，汇编审计辅助脚本，参考mipsAudit@giantb
 
 拿到py文件之后放在同一目录下，ida里面选择`File`-->`Script file`，如下：
 
-![image-20211210171106426](README/image-20211210171106426.png)
+![image-20211210171106426](image/image-20211210171106426.png)
 
 
 
@@ -26,9 +26,9 @@ IDA x86_64静态扫描脚本，汇编审计辅助脚本，参考mipsAudit@giantb
 
 双击addr等可进行跳转：
 
-![image-20211210171621139](README/image-20211210171621139.png)
+![image-20211210171621139](image/image-20211210171621139.png)
 
-![image-20211210171639935](README/image-20211210171639935.png)
+![image-20211210171639935](image/image-20211210171639935.png)
 
 ## 审计的危险函数
 
@@ -63,20 +63,20 @@ command_execution_function = [
 
 # 效果
 
-![image-20211210180837096](README/image-20211210180837096.png)
+![image-20211210180837096](image/image-20211210180837096.png)
 
 strcpy函数：
 
-![image-20211210180857617](README/image-20211210180857617.png)
+![image-20211210180857617](image/image-20211210180857617.png)
 
 read函数：
 
-![image-20211210180911109](README/image-20211210180911109.png)
+![image-20211210180911109](image/image-20211210180911109.png)
 
 printf函数：
 
-![image-20211210180952259](README/image-20211210180952259.png)
+![image-20211210180952259](image/image-20211210180952259.png)
 
 system函数：
 
-![image-20211210181021170](README/image-20211210181021170.png)
+![image-20211210181021170](image/image-20211210181021170.png)
