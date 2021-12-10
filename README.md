@@ -65,18 +65,18 @@ command_execution_function = [
 
 ![image-20211210180837096](image/image-20211210180837096.png)
 
-strcpy函数：
+**strcpy函数：**
 
 ![image-20211210180857617](image/image-20211210180857617.png)
 
-read函数：
+**read函数：**
 
 ![image-20211210180911109](image/image-20211210180911109.png)
 
-printf函数：
+**printf函数：**
 
 ![image-20211210180952259](image/image-20211210180952259.png)
 
-system函数：
+**system函数：**
 
 ![image-20211210181021170](image/image-20211210181021170.png)
